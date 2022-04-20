@@ -1,0 +1,292 @@
+
+Alexander (0)
+DR15 DN40 DW12 K8 DN20 DW44 K56 DN12 DR12 DW44 DN12 DR4 DW24 K4 DW6
+DN20 DW6 K4 DW24 DR4 DN12 DW44 DR12 DN12 K56 DW44 DN20 K8 DW12 DN40
+DR15
+DR : [140, 0, 0]
+DN : [100, 108, 100]
+K : [0, 0, 0]
+DW : [176, 176, 176]
+../../_images/JubileeII.png 	
+Holyrood Golden Jubilee II (1)
+NB48 A24 GO6 WW6 GO6 DR22 NB10 DR4 GO14 WW4 GO14
+DR4 NB10 DR22 GO6 WW6 GO6 A24 NB48
+A : [92, 140, 168]
+DR : [136, 0, 0]
+GO : [188, 140, 0]
+WW : [248, 248, 248]
+AB : [24, 112, 164]
+NB : [0, 60, 100]
+../../_images/Recovery.png 	
+Recovery (2)
+R10 LG4 R8 B8 R20 G24 K4 G4 K4 G4 K4 G4 K4 G20 B4 G4 B4 G4 B4 YY4
+B24 YY4 B4 G4 B4 G4 B4 G20 K4 G4 K4 G4 K4 G4 K4 G24 R20 B8 R8 LG4 R10
+K : [16, 16, 16]
+R : [200, 0, 0]
+YY : [252, 204, 0]
+G : [0, 104, 24]
+B : [44, 44, 128]
+LG : [40, 156, 24]
+../../_images/VanLoo.png 	
+Van Loo (3)
+LB5 P4 B60 LB10 K50 B60 LB10 B60 K50 LB10 B60 P4 LB5
+K : [16, 16, 16]
+B : [44, 44, 128]
+P : [120, 0, 120]
+LB : [40, 136, 196]
+AY : [220, 148, 60]
+LO : [236, 128, 72]
+../../_images/MacKusick.png 	
+MacKusick (4)
+RB8 K4 RB6 K24 P6 LN2 P6 K32 G6 LN4 DR2 LN4 G16 LN4
+DR2 LN4 G6 K32 P6 LN2 P6 K24 RB6 K4 RB8
+RB : [0, 0, 140]
+G : [0, 120, 0]
+DR : [140, 0, 0]
+MY : [200, 140, 0]
+K : [0, 0, 0]
+LN : [255, 255, 255]
+SB : [120, 140, 180]
+P : [100, 0, 140]
+../../_images/Aberuchill.png 	
+Aberuchill (5)
+LP4 K2 OT10 DP30 OT30 G55 K4 O6 K4 G55 OT30 DP30 OT10 K2 LP4
+LP : [180, 104, 172]
+K : [16, 16, 16]
+OT : [96, 56, 0]
+DP : [68, 0, 68]
+G : [0, 104, 24]
+O : [216, 124, 0]
+../../_images/CarsonRed.png 	
+Carson Red (6)
+A19 R4 A6 R4 A6 K86 R44 G6 R44 K86 A6 R4 A6 R4 A19
+R : [200, 0, 0]
+K : [16, 16, 16]
+G : [0, 104, 24]
+A : [68, 108, 132]
+../../_images/Ballantyne.png 	
+Ballantyne (7)
+N60 G26 N18 DR16 Y8 DR16 N18 G26 N60
+RR : [140, 28, 40]
+DY : [200, 164, 56]
+VG : [36, 80, 36]
+N : [120, 120, 120]
+Y : [232, 192, 0]
+DR : [136, 0, 0]
+G : [0, 104, 24]
+../../_images/Fuller.png 	
+Fuller (8)
+K2 W4 K72 B80 W4 LR4 Y4 LR4 W4 B80 K72 W4 K2
+LR : [200, 0, 80]
+Y : [236, 128, 72]
+B : [44, 44, 128]
+W : [248, 248, 248]
+K : [16, 16, 16]
+../../_images/CC.png 	
+Crookdake-Cheng (9)
+DR2 RB48 LN12 K12 G12 YY8 G4 YY4 G4 YY2 G4 YY4 G4
+YY8 G12 K12 LN12 RB48 DR2
+RB : [0, 0, 140]
+G : [0, 120, 0]
+DR : [140, 0, 0]
+K : [0, 0, 0]
+LN : [200, 200, 200]
+YY : [252, 204, 0]
+../../_images/Accenture.png 	
+Accenture (10)
+W3 B50 P42 N6 G42 R4 G4 B8 N2 P6 N2 B8 G4 R4 G42 N6 P42 B50 W3
+B : [44, 44, 128]
+P : [120, 0, 120]
+G : [0, 104, 24]
+R : [200, 0, 0]
+W : [224, 224, 224]
+N : [136, 136, 136]
+../../_images/SAAA.png 	
+Scottish American Athletic Assioc.(11)
+Y32 K42 RR32 DW12 BN8 DW12 RR32 K42 Y32
+Y : [232, 192, 0]
+K : [16, 16, 16]
+SCR : [200, 0, 44]
+DW : [184, 184, 184]
+XB : [56, 64, 156]
+NB : [0, 60, 100]
+BN : [52, 64, 84]
+WR : [120, 0, 40]
+RR : [144, 28, 28]
+../../_images/Avalon.png 	
+Avalon (12)
+R5 G6 Y12 WW6 Y10 K110 WW10 K110 Y10 WW6 Y12 G6 R5
+K : [16, 16, 16]
+WW : [248, 248, 248]
+Y : [232, 192, 0]
+WG : [64, 128, 96]
+G : [0, 104, 24]
+R : [200, 0, 0]
+../../_images/King.png 	
+King (13)
+G1 R70 G4 K4 Y4 G32 B28 R4 W4 R4 B28 G32 Y4 K4 G4 R70
+G : [0, 104, 24]
+R : [200, 0, 0]
+K : [16, 16, 16]
+Y : [232, 192, 0]
+B : [44, 44, 128]
+W : [224, 224, 224]
+../../_images/Lang.png 	
+Lang (14)
+P2 G18 P4 G20 P60 A20 P4 A12 P4 A8 P4 A12 P4 A20 P60 G20 P4 G18 P2
+A : [92, 140, 168]
+P : [120, 0, 120]
+G : [0, 104, 24]
+../../_images/Lee.png 	
+Lee (15)
+G4 K4 G48 DR16 G12 RB36 LN8 RB36 G12 DR16 G48 K4 G4
+G : [0, 76, 0]
+K : [0, 0, 0]
+DR : [140, 0, 0]
+LN : [200, 200, 200]
+RB : [0, 0, 140]
+../../_images/QueenScots.png 	
+Queen of Scots (16)
+R34 B8 R2 B8 G4 K6 G2 K6 G44 K6 G2 K6 G4 B8 R2 B8 R34
+K : [16, 16, 16]
+G : [0, 104, 24]
+R : [144, 28, 56]
+B : [120, 0, 120]
+../../_images/PrincessD.png 	
+Princess Diana (17)
+K14 R4 K4 R4 K4 G36 R4 G36 W2 B24 A2 R16 A2
+B24 W2 G36 R4 G36 K4 R4 K4 R4 K14
+B : [0, 0, 140]
+G : [0, 120, 0]
+R : [140, 0, 0]
+K : [0, 0, 0]
+W : [200, 200, 200]
+A : [120, 140, 180]
+../../_images/Rainbow.png 	
+Rainbow (18)
+RB6 HS4 G8 RB24 ZR6 DW4 ZR16 DW6 G12 DW6 G12 DW6 G12
+DW6 G12 DW6 ZR16 DW4 ZR6 RB24 G8 HS4 RB6
+G : [0, 104, 24]
+HS : [4, 136, 136]
+DW : [184, 184, 184]
+RB : [28, 0, 112]
+ZR : [160, 0, 0]
+../../_images/Queensland.png 	
+Queensland (19)
+R5 G12 P10 G20 Y12 B30 A44 W36 A44 B30 Y12 G20 P10 G12 R5
+A : [92, 140, 168]
+B : [44, 44, 128]
+P : [196, 156, 216]
+R : [200, 0, 0]
+W : [224, 224, 224]
+Y : [232, 192, 0]
+G : [0, 156, 36]
+../../_images/Beatty.png 	
+Beatty (20)
+K6 FSB6 RB56 MY16 K20 MY4 K4 LN4 K8 G32 DR24 K4 DR12 LN4 DR12 K4
+DR24 G32 K8 LN4 K4 MY4 K20 MY16 RB56 FSB6 K6
+RB : [0, 0, 140]
+G : [0, 120, 0]
+DR : [140, 0, 0]
+MY : [200, 140, 0]
+K : [0, 0, 0]
+LN : [200, 200, 200]
+FSB : [52, 116, 252]
+P : [100, 0, 140]
+../../_images/PrinceE.png 	
+Prince Edward Island (21)
+G20 T4 G8 T4 G8 T36 ZR36 T2 Y8 T2 ZR36 T36 G36 T2 WW8 T2 G36
+T36 ZR36 T2 Y8 T2 ZR36 T36 G8 T4 G8 T4 G20
+G : [0, 104, 24]
+T : [96, 64, 0]
+Y : [232, 192, 0]
+WW : [252, 252, 252]
+ZR : [160, 0, 0]
+../../_images/BlairDress.png 	
+Blair Dress (22)
+DB2 DR4 DB24 KK10 DG24 DR4 DG4 DR4 DG24 KK10 W28 DR4 W4 DR4
+W28 KK10 DG24 DR4 DG4 DR4 DG24 KK10 DB24 DR4 DB2
+DB : [0, 0, 96]
+DR : [136, 0, 0]
+KK : [0, 0, 0]
+DG : [0, 72, 0]
+SW : [176, 176, 176]
+W : [224, 224, 224]
+../../_images/Plowman.png 	
+Plowman (23)
+W1 HG6 R48 HG4 R4 DP36 R4 HG4 R2 YT2 HG2 R40 DP4 R4 HG6 R4 DP34
+R4 DP34 R4 HG6 R4 DP4 R40 HG2 YT2 R2 HG4 R4 DP36 R4 HG4 R48 HG6 W1
+DP : [40, 0, 60]
+YT : [220, 188, 0]
+P : [120, 0, 120]
+HG : [40, 88, 0]
+W : [224, 224, 224]
+R : [200, 0, 0]
+../../_images/TGP.png 	
+Templar Grand Priory (24)
+W2 R54 K64 B6 K64 R54 W2
+B : [44, 44, 128]
+K : [16, 16, 16]
+R : [200, 0, 0]
+W : [224, 224, 224]
+../../_images/Cairn.png 	
+Cairn (25)
+N6 W80 DR4 DB4 DR4 DB12 DR16 DB8 DR16 DB8 DR16 DB4
+OG32 DY4 OG32 DB4 DR16 DB8 DR16 DB8 DR16 DB12 DR4 DB4 DR4 W80 N6
+W : [224, 224, 224]
+DR : [136, 0, 0]
+DB : [32, 32, 96]
+OG : [92, 100, 40]
+DY : [232, 192, 0]
+N : [136, 136, 136]
+../../_images/Arizona.png 	
+Arizona (26)
+LT6 G8 WW8 R8 LT48 K8 G48 R8 G8 A8 G8 Y8
+G8 A8 G8 R8 G48 K8 LT48 R8 WW8 G8 LT6
+A : [92, 140, 168]
+Y : [232, 192, 0]
+K : [16, 16, 16]
+WW : [252, 252, 252]
+R : [200, 0, 0]
+G : [0, 104, 24]
+LT : [160, 136, 88]
+LY : [196, 188, 104]
+GO : [188, 140, 0]
+AY : [220, 148, 60]
+../../_images/AilsaNavy.png 	
+Ailsa Navy (27)
+RB8 W6 RB56 W64 K6 W8 K6 W64 RB56 W6 RB8
+W : [240, 224, 200]
+RB : [28, 0, 112]
+K : [16, 16, 16]
+../../_images/Lewis.png 	
+MacLeod of Lewis (28)
+K16 Y4 K32 Y48 R4 Y48 K32 Y4 K16
+K : [16, 16, 16]
+R : [200, 0, 0]
+Y : [216, 176, 0]
+../../_images/Quebec.png 	
+Quebec (29)
+LT6 G8 WW8 R8 LT48 K8 G48 R8 G8 A8 G8 Y8 G8
+A8 G8 R8 G48 K8 LT48 R8 WW8 G8 LT6
+K : [16, 16, 16]
+DB : [32, 32, 96]
+G : [0, 104, 24]
+R : [180, 0, 0]
+W : [224, 224, 224]
+Y : [196, 160, 0]
+DG : [0, 56, 32]
+VDB : [0, 0, 44]
+GO : [188, 140, 0]
+../../_images/Saltcoats.png 	
+Saltcoats (30)
+P5 W2 K2 BL28 K2 R24 K2 BL28 K2 R10 K2 Y6 K2 R10
+K2 BL28 K2 R24 K2 BL28 K2 W2 P5
+K : [16, 16, 16]
+B : [44, 44, 128]
+P : [120, 0, 120]
+R : [200, 0, 0]
+W : [224, 224, 224]
+Y : [232, 192, 0]
+BL : [20, 116, 180]
+
